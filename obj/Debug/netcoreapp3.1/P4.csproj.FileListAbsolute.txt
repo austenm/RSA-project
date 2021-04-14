@@ -1,0 +1,25 @@
+/home/austenmack/Desktop/P4/bin/Debug/netcoreapp3.1/P4
+/home/austenmack/Desktop/P4/bin/Debug/netcoreapp3.1/P4.deps.json
+/home/austenmack/Desktop/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.json
+/home/austenmack/Desktop/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.dev.json
+/home/austenmack/Desktop/P4/bin/Debug/netcoreapp3.1/P4.dll
+/home/austenmack/Desktop/P4/bin/Debug/netcoreapp3.1/P4.pdb
+/home/austenmack/Desktop/P4/obj/Debug/netcoreapp3.1/P4.csprojAssemblyReference.cache
+/home/austenmack/Desktop/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfoInputs.cache
+/home/austenmack/Desktop/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfo.cs
+/home/austenmack/Desktop/P4/obj/Debug/netcoreapp3.1/P4.csproj.CoreCompileInputs.cache
+/home/austenmack/Desktop/P4/obj/Debug/netcoreapp3.1/P4.dll
+/home/austenmack/Desktop/P4/obj/Debug/netcoreapp3.1/P4.pdb
+/home/austenmack/Desktop/P4/obj/Debug/netcoreapp3.1/P4.genruntimeconfig.cache
+/Users/austenmack/MCS Projects/539 Crypto/P4/bin/Debug/netcoreapp3.1/P4.deps.json
+/Users/austenmack/MCS Projects/539 Crypto/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.json
+/Users/austenmack/MCS Projects/539 Crypto/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.dev.json
+/Users/austenmack/MCS Projects/539 Crypto/P4/bin/Debug/netcoreapp3.1/P4.dll
+/Users/austenmack/MCS Projects/539 Crypto/P4/bin/Debug/netcoreapp3.1/P4.pdb
+/Users/austenmack/MCS Projects/539 Crypto/P4/obj/Debug/netcoreapp3.1/P4.csprojAssemblyReference.cache
+/Users/austenmack/MCS Projects/539 Crypto/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfoInputs.cache
+/Users/austenmack/MCS Projects/539 Crypto/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfo.cs
+/Users/austenmack/MCS Projects/539 Crypto/P4/obj/Debug/netcoreapp3.1/P4.csproj.CoreCompileInputs.cache
+/Users/austenmack/MCS Projects/539 Crypto/P4/obj/Debug/netcoreapp3.1/P4.dll
+/Users/austenmack/MCS Projects/539 Crypto/P4/obj/Debug/netcoreapp3.1/P4.pdb
+/Users/austenmack/MCS Projects/539 Crypto/P4/obj/Debug/netcoreapp3.1/P4.genruntimeconfig.cache
